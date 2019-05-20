@@ -46,7 +46,7 @@ spec:
             memory: "32Mi"
             cpu: "10m"
       - name: metrics-server
-        image: quay.io/brice/metrics-demo:master
+        image: quay.io/brice/metrics-demo:v4-subscription-service
         ports:
         - containerPort: 3000
         readinessProbe:

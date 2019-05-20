@@ -1,0 +1,1 @@
+{"jobID":"df0983da-ce19-0eac-4fe1-02e18c5fc727","spec":{"type":"policy","cause":{"Message":"","User":"Aditya Sundaramurthy \u003caditya.sundaramurthy@maersk.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}

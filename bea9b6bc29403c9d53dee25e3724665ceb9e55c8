@@ -1,0 +1,1 @@
+{"jobID":"d342c061-0aa6-a42d-9174-eece6c26ae86","spec":{"type":"policy","cause":{"Message":"","User":"Aditya Sundaramurthy \u003caditya.sundaramurthy@maersk.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.metrics-server":"glob:v*-sub*"},"remove":null}}},"result":null}
